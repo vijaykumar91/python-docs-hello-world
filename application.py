@@ -10,7 +10,7 @@ import json
 
 #client = Client('https://ws.staging.training.gov.au/Deewr.Tga.WebServices/OrganisationServiceV7.svc?wsdl', wsse=UsernameToken('WebService.Read', 'Asdf098'))
 
-#import pyodbc
+import pyodbc
 
 app = Flask(__name__)
 
