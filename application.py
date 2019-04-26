@@ -4,7 +4,7 @@ import time
 # import MsSqlConnect
 import json
 
-from zeep import Client
+#from zeep import Client
 #import zeep
 #from zeep.wsse.username import UsernameToken
 
