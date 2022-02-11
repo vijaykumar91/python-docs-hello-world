@@ -20,7 +20,7 @@ mysql-connector-python==8.0.15
 nltk==3.4
 numpy==1.16.2
 opencv-python==4.1.0.25
-protobuf==3.7.1
+protobuf==3.15.0
 pyodbc==4.0.26
 pytz==2019.1
 requests==2.21.0
